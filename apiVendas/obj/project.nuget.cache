@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCO37B0qKJFTut5992Ub79JDms4BnG/oxvSKSW8vD6+Lu/mWpEePN471hZhcuUhkwn0oOz97QytPFSEqGygyLg==",
+  "success": true,
+  "projectFilePath": "/Users/welingtonmarquezini/Projects/apiVendas/apiVendas/apiVendas.csproj",
+  "expectedPackageFiles": [
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/welingtonmarquezini/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

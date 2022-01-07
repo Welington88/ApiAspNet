@@ -1,5 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using apiVendas.Models;
 
 namespace apiVendas.Context
 {
@@ -8,5 +9,6 @@ namespace apiVendas.Context
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
         }
+        public DbSet<Cliente> Cliente { get; set; }
     }
 }

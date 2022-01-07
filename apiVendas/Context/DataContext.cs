@@ -10,5 +10,6 @@ namespace apiVendas.Context
         {
         }
         public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<apiVendas.Models.Vendedor> Vendedor { get; set; }
     }
 }

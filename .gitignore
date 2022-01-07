@@ -4,3 +4,9 @@ apiVendas/bin/
 .vs/apiVendas/xs/project-cache/apiVendas-Debug.json
 obj/
 bin/
+.vs/apiVendas/xs/project-cache/apiVendas-Debug.json
+apiVendas/bin/Debug/net5.0/apiVendas.deps.json
+apiVendas/bin/Debug/net5.0/apiVendas.dll
+apiVendas/obj/project.nuget.cache
+apiVendas/obj/Debug/net5.0/apiVendas.MvcApplicationPartsAssemblyInfo.cs
+apiVendas/obj/Debug/net5.0/apiVendas.pdb

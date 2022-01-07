@@ -3,10 +3,15 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="apiVendas" expanded="True">
-            <Node name="apiVendas" expanded="True" />
+          <Node name="apiVendas" expanded="True" selected="True">
+            <Node name="apiVendas" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

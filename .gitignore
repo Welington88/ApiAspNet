@@ -1,3 +1,6 @@
 .vs/
 apiVendas/obj/
 apiVendas/bin/
+.vs/apiVendas/xs/project-cache/apiVendas-Debug.json
+obj/
+bin/

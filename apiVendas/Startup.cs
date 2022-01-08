@@ -62,11 +62,11 @@ namespace apiVendas
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "apiVendas v1"));
             }
 
+            app.UseAuthentication();
+            
             app.UseRouting();
 
             app.UseAuthorization();
-
-            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

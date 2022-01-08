@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using apiVendas.Context;
 using apiVendas.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace apiVendas.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize()]
     public class VendaController : ControllerBase
     {
         private readonly DataContext _context;

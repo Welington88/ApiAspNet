@@ -11,7 +11,7 @@ namespace apiVendas.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize()]
+    [AllowAnonymous]
     public class ClienteController : ControllerBase
     {
         private readonly DataContext _context;

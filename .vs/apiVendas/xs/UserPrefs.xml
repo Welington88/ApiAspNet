@@ -1,25 +1,33 @@
 ﻿<Properties StartupConfiguration="{2949B20D-6DD6-4181-9B57-4F3D8283F81A}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="apiVendas/Controllers/ClienteController.cs">
+    <Files>
+      <File FileName="apiVendas/Controllers/VendedorController.cs" />
+      <File FileName="apiVendas/Startup.cs" />
+      <File FileName="apiVendas/Context/DataContext.cs" />
+      <File FileName="apiVendas/Models/Cliente.cs" />
+      <File FileName="apiVendas/Controllers/ClienteController.cs" Line="53" Column="14" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="apiVendas" expanded="True" selected="True">
+          <Node name="apiVendas" expanded="True">
             <Node name="apiVendas" expanded="True">
-              <Node name="Properties" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ClienteController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.apiVendas PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.apiVendas PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
